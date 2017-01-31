@@ -1,0 +1,217 @@
+body{
+	background-color:#f6f6f6;
+	margin:0 auto;
+}
+
+.blink span{
+		width: 6.6%;
+		height: 5px;
+		display: inline-block;
+		float: left;
+}
+
+.tengah{
+	float:right;
+	margin:6% 130px;
+}
+
+.logo{
+	margin:15px 0px 0px 10%;
+	float: left;
+}
+#log{
+	width:180px;
+	height:auto;
+}
+
+.atas{
+	background-color:#161616;
+	float: left;
+	width: 100%;
+	height: 90px;
+	border-bottom:1px #6ea245 solid;
+	position: fixed;
+	z-index: 1000;
+    margin: 0px;
+}
+@media screen 400px {
+}
+.atas ul li{
+	display: inline-block;
+	float: right;
+	padding:20px 40px 0px 10px;
+	font-family: Playball;
+    font-size: 17px;
+    color:#e8e8e8;
+
+}
+.atas ul {
+	margin-right: 7.6%;
+}
+
+.banner{
+	margin:0px;
+	float:left;
+}
+
+#gbanner{
+	width:100%;
+	height:570px;
+}
+
+.garis{
+	width:100%;
+	height: 3px;
+	background-color:#e6e6e6;
+	float: left;
+}
+
+.sokes{
+	width:100%;
+	float:left;
+	text-align: center;
+	margin:-8px auto;
+	color: #545454;
+}
+
+.menbaw{
+	width: 50%;
+	margin:0px 25%;
+}
+.menbaw ul li{
+	display:inline-block;
+	float: left;
+	margin-left: 15px;
+	background-color:#093;
+	border-radius:6px;
+	padding:8px;
+	color:white;
+	font-family:Square721 BT;
+}
+
+
+.recen{
+	float: left;
+	width: 105%;
+	height: auto;
+	margin:60px -10px 0px;
+}
+#recet{
+	display: inline-block;
+	padding:0px 7px;
+}
+#gbr{
+	width:258px;
+	height: auto;
+}
+#jdul{
+	width:258px;
+	height: auto;
+}
+#si{
+
+}
+
+
+.btn{
+	width:25%;
+	height: 50px;
+	background-color:#093;
+	float: left;
+	margin:60px 37.5%;
+	border-radius:10px;
+	color:#fff;
+	font-family:Square721 BT;
+}
+#load{
+	text-align: center;
+	padding:15px 0px 0px;
+}
+
+
+
+.partner {
+	margin:50px -6px 0px;
+	float: left;
+	display: inline-block;
+	width: 105%;
+	height: auto;
+}
+#spr1{
+	width: 150px;
+	height:auto;
+	padding:0px 40px;
+	margin-top: -70px;
+}
+#spr2{
+	width: 250px;
+	height:auto;
+	padding:0px 40px;
+}
+
+.bagbaw{
+	width: 100%;
+	float: left;
+
+}
+.bagbaw .blink {
+	float: left;
+	margin-top: -100px;
+
+}
+.lututbag{
+	width:100%;
+	height: 300px;
+	float: left;
+	background-color: #eceaea;
+}
+.kakibag{
+	float:left;
+	background-color:#161616;
+	width: 100%;
+	height: 70px;
+}
+
+.lutut{
+	float: left;
+	width: 100%;
+	height: auto;
+	margin:30px 130px 0px 0px;
+}
+#lulut{
+	display: inline-block;
+	padding:0px 25px;
+}
+#gbrlut{
+	width:258px;
+	height: auto;
+}
+#dul{
+	width:258px;
+	height: auto;
+}
+#isi{
+	width: 258px;
+	height: auto;
+}
+
+.kakibag{
+	font-family: Playball;
+	color: #ffffff;
+}
+
+.menkak{
+
+}
+.menkak ul li{
+	display:inline-block;
+	margin: 3px;
+	background-color:#353535;
+	border-radius:6px;
+	padding:10px;
+	color:white;
+}
+.akhir{
+	text-align: center;
+	margin:25px auto;
+}
